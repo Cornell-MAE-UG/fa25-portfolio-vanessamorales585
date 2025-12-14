@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Engineering Ethics
+description: A holistic analysis of the Boeing 737 MAX Incident
+image: /assets/images/ethics-clipart.png
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Ethics is an often overlooked topic in engineering, one that I strongly believe should be taught alongside technical courses. In MAE 4300, I delved into several topics related to ethical analysis. As a professional engineer I plan to always let my moral compass guide me, and uphold the ASME code of ethics for engineers in all my endeavors.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+In 2018 and 2019 fatal crashes involving the Boeing 737 MAX ocurred as a result of several unethical decisions. This case is extremely important for engineers to study, and many lessons can be learned about the moral duties we have as engineers.
 
+[View my essay]({{ "/assets/Boeing 737MAX Case Study.pdf" | relative_url }}) in PDF format.
