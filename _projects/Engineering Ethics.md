@@ -2,7 +2,7 @@
 layout: project
 title: Engineering Ethics
 description: A holistic analysis of the Boeing 737 MAX Incident
-image: /assets/images/ethics-clipart.png
+image: /assets/images/ethics-image.jpg
 ---
 
 
